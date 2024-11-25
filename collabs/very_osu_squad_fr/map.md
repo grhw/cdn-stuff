@@ -1,5 +1,5 @@
 [imagemap]
-https://github.com/grhw/cdn-stuff/blob/main/collabs/very_osu_squad_fr.png?raw=true
+https://github.com/grhw/cdn-stuff/blob/main/collabs/very_osu_squad_fr/image.png?raw=true
 111 105 334 572 https://osu.ppy.sh/users/26586428 Shocked
 407 238 61 433 https://osu.ppy.sh/users/26586428 Shocked
 382 438 119 199 https://osu.ppy.sh/users/26586428 Shocked
